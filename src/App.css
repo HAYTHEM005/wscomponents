@@ -1,0 +1,24 @@
+body{ background-color:black;
+display: flex;
+justify-content: center;
+}
+.image {
+    border-radius: 5px;
+    width: 150px ;
+    height:150px ;}
+    .all {
+        border-radius: 5px;
+        margin-top: 10px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 20px;
+        padding-right: 20px;
+        background-color: blanchedalmond;}
+        .all2 {
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            color: brown;
+            background-color:rgb(151, 164, 233);
+            border-radius: 5px;
+            padding-left: 10px;
+        }
+    
